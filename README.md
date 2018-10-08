@@ -81,7 +81,7 @@ However what we found out that some archetypes appears much more frequent than o
 * What kind of challenges do you see to build classifier that would predict these dimensions in general?
 * What are pros and cons of building these classifier?
 
-In repo you will find a link to example of json file of data that we scrape from linkedin as well as Notebook with data.
+In repo you will find a link to example of json file of data that we scrape from linkedin. Here is a link to [Notebook](https://jupyter.bunch.ai/notebooks/Data%20Science%20challenge%20in%20house/Data.ipynb) with data.
 
 #### Expected result
 

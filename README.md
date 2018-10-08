@@ -2,7 +2,7 @@
 
 #### Problem:
 
-In our database, we have 3000 profiles of users who did Bunch assessment. Bunch assessment gives a profile/ mindset of a person based on [6 dimensions](https://drive.google.com/drive/u/1/folders/1LoZsZ-smraZsImCb3WEBPQxF3y3RfBgq?ogsrc=32).
+In our database, we have 3000 profiles of users who did Bunch assessment. Bunch assessment gives a profile/ mindset of a person based on [6 dimensions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.378.9723&rep=rep1&type=pdf).
 These 6 dimensions: Adaptability, Collaboration, Customer-orientation, Detail-orientation, Result-orientation, Integrity were developed by Charles O’Reilly and tested with hundreds of tech companies around the world.
 
 Avery dimension is presented on a scale from 0 to 10. However, the design of assessment makes scores depended on each other. In particular, a person has 30 questions or 30 points that are distributed across these 6 dimensions depending on what dimension person prioritized over the other. Meaning person can’t be high across all dimensions. Some scores should be high others low or every score should be equal to each other.
